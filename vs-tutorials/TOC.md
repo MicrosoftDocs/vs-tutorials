@@ -1,2 +1,2 @@
-# [Index](index.md)
+# [Home](index.yml)
 ## [Tutorial](hello-world.yml)
