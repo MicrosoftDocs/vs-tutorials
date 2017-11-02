@@ -1,16 +1,52 @@
 ---
-title: Azure Quick Start - Create VM CLI | Microsoft Docs
-description: Quickly learn to create virtual machines with the Azure CLI.
-services: virtual-machines-linux
-documentationcenter: virtual-machines
-author: danielfe
-manager: jeffsand
-
+title: Article and code sample
+description: This is a sample article and code sample
 ms.assetid: 
 ms.service: none
 ms.date: 11/2/2017
-ms.author: nepeters
-ms.custom: mvc
+ms.author: danielfe
+ms.custom: jeffsand
 ---
 
-# Create a Linux virtual machine with the Azure CLI
+# This is the article title
+
+This is the content
+
+## This is a section
+
+This is a code sample
+
+* Normal
+'''
+c:\windows\syswow64\regsvr32 sdapi.dll
+```
+
+* Escaped \\
+ ```
+
+c:\\windows\\syswow64\\regsvr32 sdapi.dll
+
+ ```
+
+*cmd
+```cmd
+
+ c:\windows\syswow64\regsvr32 sdapi.dll
+
+```
+
+*cmd escaped
+
+```cmd
+
+c:\\windows\\syswow64\\regsvr32 sdapi.dll
+
+```
+*dos
+```dos
+
+ c:\windows\syswow64\regsvr32 sdapi.dll
+
+```
+
+
