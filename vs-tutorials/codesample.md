@@ -17,19 +17,24 @@ This is the content
 This is a code sample
 
 * Normal
-'''
+
+```
+
 c:\windows\syswow64\regsvr32 sdapi.dll
+
 ```
 
 * Escaped \\
- ```
+
+```
 
 c:\\windows\\syswow64\\regsvr32 sdapi.dll
 
- ```
+```
 
 *cmd
-```cmd
+
+```CMD
 
  c:\windows\syswow64\regsvr32 sdapi.dll
 
@@ -37,16 +42,16 @@ c:\\windows\\syswow64\\regsvr32 sdapi.dll
 
 *cmd escaped
 
-```cmd
+```CMD
 
 c:\\windows\\syswow64\\regsvr32 sdapi.dll
 
 ```
-*dos
-```dos
+
+*DOS
+
+```DOS
 
  c:\windows\syswow64\regsvr32 sdapi.dll
 
 ```
-
-
