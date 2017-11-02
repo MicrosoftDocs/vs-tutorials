@@ -24,30 +24,6 @@ c:\windows\syswow64\regsvr32 sdapi.dll
 
 ```
 
-* Escaped \\
-
-```
-
-c:\\windows\\syswow64\\regsvr32 sdapi.dll
-
-```
-
-*cmd
-
-```CMD
-
- c:\windows\syswow64\regsvr32 sdapi.dll
-
-```
-
-*cmd escaped
-
-```CMD
-
-c:\\windows\\syswow64\\regsvr32 sdapi.dll
-
-```
-
 *DOS
 
 ```DOS
