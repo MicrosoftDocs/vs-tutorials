@@ -19,15 +19,11 @@ This is a code sample
 * Normal
 
 ```
-
 c:\windows\syswow64\regsvr32 sdapi.dll
-
 ```
 
-*DOS
+* DOS
 
 ```DOS
-
  c:\windows\syswow64\regsvr32 sdapi.dll
-
 ```
