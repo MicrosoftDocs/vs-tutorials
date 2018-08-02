@@ -36,6 +36,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "vs-tutorials"
+    "dest": "vs-tutorials",
+    "markdownEngineName": "markdig"
   }
 }
